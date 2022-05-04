@@ -1,0 +1,41 @@
+.Tag{
+    font-size: 25px;
+    font-family: "Calibri";
+    font-weight: bolder;
+    letter-spacing: 2px;
+    position: absolute;
+    left: 1000px;
+    top: 100px;
+}
+.ostavki{
+    position: relative;
+    top: 50px;
+    left: 450px;
+    margin-left: 300px;
+    display: flex;
+    width: 600px;
+    height: 100px;
+    background: #c9c9c9;
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 10px;
+}
+.avatar{
+    border-radius: 50%;
+    cursor: pointer;
+    width: 80px;
+    height: 80px;
+}
+.name{
+    position: relative;
+    top: 70px;
+    left: -60px;
+    font-weight: bolder;
+    font-size: 15px;
+    cursor: pointer;
+}
+.message{
+    left: 120px;
+    top: 0px;
+    font-family: "Times New Roman";
+}

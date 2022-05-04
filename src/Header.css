@@ -1,0 +1,23 @@
+.Header{
+  background-color: #f4f5f2;
+  width: 100%;
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.Header-item{
+  font-size: 20px;
+  color: rgb(57, 55, 184);
+  cursor: pointer;
+  margin-right: 1000px;
+}
+.Header-item:hover{
+  color: rgb(160, 158, 248);
+}
+.logo{
+  margin-left: 610px;
+}
+p{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
